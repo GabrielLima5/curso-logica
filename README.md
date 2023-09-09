@@ -9,7 +9,7 @@ Este repositório contém todos os arquivos relacionados ao curso de Lógica de 
 ## Sobre o Curso
 Neste curso, explorei os fundamentos da programação e aprendi uma série de conceitos essenciais. Durante o período de estudo, adquiri conhecimentos valiosos sobre os seguintes tópicos:
 
-* **Lógica de Programação**: Compreendi os princípios fundamentais da lógica de programação, incluindo a criação de algoritmos, a elaboração de fluxogramas para representar processos e o desenvolvimento de pseudocódigos para planejar programas.
+* **Lógica de Programação**: Compreendi os princípios fundamentais da lógica de programação, incluindo a criação de algoritmos, a elaboração de fluxogramas para representar processos e o desenvolvimento de pseudocódigos para planejar programas. Para me auxiliar com isso, utilizei a linguagem Portugol.
 
 * **Teste de Mesa**: Aprendi como realizar testes de mesa para validar e depurar algoritmos, garantindo que eles funcionem conforme o esperado.
 
