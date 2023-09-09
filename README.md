@@ -4,7 +4,7 @@
     <img src="https://github.com/GabrielLima5/curso-logica-soulcode/blob/main/Certificado/certificate.jpg">
 </p>
 
-Este repositório contém todos os arquivos relacionados ao curso de Lógica de Programação da Soulcode, que fiz entre 01 de outubro de 2022 e 27 de outubro de 2022.
+Este repositório contém todos os arquivos relacionados ao curso de Lógica de Programação da <a href="https://soulcode.com/">Soulcode</a>, que fiz entre 01 de outubro de 2022 e 27 de outubro de 2022.
 
 ## Sobre o Curso
 Neste curso, explorei os fundamentos da programação e aprendi uma série de conceitos essenciais. Durante o período de estudo, adquiri conhecimentos valiosos sobre os seguintes tópicos:
